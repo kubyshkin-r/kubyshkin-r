@@ -1,12 +1,9 @@
 Самостоятельно развиваюсь в web-разработке:
 - осваиваю JS
 - создаю сайты от концепции до релиза
-- изучаю UX и актуальные тренды веб-дизайна
 
 Умеренный перфекционист.
-
 Увлекаюсь фотографией, популярной наукой, плаванием и IT.
-
 <!--
 **kubyshkin-r/kubyshkin-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
